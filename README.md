@@ -4,6 +4,10 @@
 - Most code brought from [AttGAN](https://github.com/LynnHo/AttGAN-Tensorflow) and [EigenGAN](https://github.com/LynnHo/EigenGAN-Tensorflow)     
 
 
+# Model structure
+![BicycleEigenGAN](doc/BicycleEigenGANWithResult.png)    
+
+
 # Result   
 - epoch 61 trained model output (img size 128, g recon loss 100.0, z_dims 7 * 7)
 - first col / second col / remian col    
@@ -17,9 +21,6 @@
 ![result](doc/BicycleEigenGAN_result/Epoch-61_Iter-816_Traversal-0-5-5.678-5.jpg)    
 ![result](doc/BicycleEigenGAN_result/Epoch-61_Iter-816_Traversal-0-6-3.617-6.jpg)    
 
-
-# Model structure
-![BicycleEigenGAN](doc/BicycleEigenGANWithResult.png)    
 
 # Run    
 - bicycleEigenGAN.ipynb
