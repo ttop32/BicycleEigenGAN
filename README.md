@@ -11,7 +11,7 @@
 # Result   
 - epoch 61 trained model output (img size 128, g recon loss 100.0, z_dims 7 * 7)
 - first col / second col / remian col    
-- ori source img / reconstruction img / output results when set value -4.5 to 4.5
+- ori source img / reconstruction img / output results when set latent value -4.5 to 4.5
 
 ![result](doc/BicycleEigenGAN_result/Epoch-61_Iter-816_Traversal-0-0-19.571-0.jpg)    
 ![result](doc/BicycleEigenGAN_result/Epoch-61_Iter-816_Traversal-0-1-16.482-1.jpg)     
