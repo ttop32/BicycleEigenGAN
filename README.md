@@ -9,13 +9,13 @@
 - first col / second col / remian col    
 - ori source img / reconstruction img / output results when set value -4.5 to 4.5
 
-![result](doc/result/Epoch-61_Iter-816_Traversal-0-0-19.571-0.jpg)    
-![result](doc/result/Epoch-61_Iter-816_Traversal-0-1-16.482-1.jpg)     
-![result](doc/result/Epoch-61_Iter-816_Traversal-0-2-13.744-2.jpg)    
-![result](doc/result/Epoch-61_Iter-816_Traversal-0-3-11.023-3.jpg)    
-![result](doc/result/Epoch-61_Iter-816_Traversal-0-4-8.310-4.jpg)    
-![result](doc/result/Epoch-61_Iter-816_Traversal-0-5-5.678-5.jpg)    
-![result](doc/result/Epoch-61_Iter-816_Traversal-0-6-3.617-6.jpg)    
+![result](doc/BicycleEigenGAN_result/Epoch-61_Iter-816_Traversal-0-0-19.571-0.jpg)    
+![result](doc/BicycleEigenGAN_result/Epoch-61_Iter-816_Traversal-0-1-16.482-1.jpg)     
+![result](doc/BicycleEigenGAN_result/Epoch-61_Iter-816_Traversal-0-2-13.744-2.jpg)    
+![result](doc/BicycleEigenGAN_result/Epoch-61_Iter-816_Traversal-0-3-11.023-3.jpg)    
+![result](doc/BicycleEigenGAN_result/Epoch-61_Iter-816_Traversal-0-4-8.310-4.jpg)    
+![result](doc/BicycleEigenGAN_result/Epoch-61_Iter-816_Traversal-0-5-5.678-5.jpg)    
+![result](doc/BicycleEigenGAN_result/Epoch-61_Iter-816_Traversal-0-6-3.617-6.jpg)    
 
 
 # Model structure
