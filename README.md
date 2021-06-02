@@ -88,4 +88,3 @@
 - [BicycleGAN-Tensorflow](https://github.com/clvrai/BicycleGAN-Tensorflow)
 - [Bidirectional-InfoGAN](https://github.com/tohinz/Bidirectional-InfoGAN)
 - [lpips](https://github.com/richzhang/PerceptualSimilarity)
-- 
