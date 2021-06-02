@@ -19,7 +19,7 @@
 
 
 # Model structure
-![BicycleEigenGAN](doc/BicycleEigenGAN.png)    
+![BicycleEigenGAN](doc/BicycleEigenGANWithResult.png)    
 
 # Run    
 - bicycleEigenGAN.ipynb
